@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f59b909fbaec8eb418ed19ac32580053
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - x: {fileID: 8807699611787368545, guid: 69bdc2ddaf80bbb45bab51549cbedaa0, type: 3}
+  - XDivision: {fileID: 804381194945050873, guid: 125ab1af714c45e41a8b4088f313f2a4, type: 3}
+  - YDivision: {fileID: 2359879507817285045, guid: f9f3133f24b504d4b892f1d3404194cf, type: 3}
+  - Circle: {fileID: 2108219305866428851, guid: 1d0cc35b439f6b540a40712ef8ace0e4, type: 3}
+  - LinePrefab: {fileID: 5829969443288081939, guid: 767de7a12c01b3441ae0c43a3186834e, type: 3}
+  - Output: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
